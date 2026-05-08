@@ -1,0 +1,3 @@
+I want to build a todo list application. This application will store issues in a backend repository or database.  The user will be able to create, retrieve, update and delete tasks.  Each task will contain title, description, due date, priority.  The user will have an interface that allows them to perform CRUD operations and also a Kanban board showing pending, in-progress and completed tasks.  The user may drag between tasks between sections of the Kanban board to update status, ie, change pending in progress OR in progress to completed.
+
+The intent is to deliver a free standing application. No need to run a web server.  The app migth be an electron app or something similar pending discuss of architecture.
