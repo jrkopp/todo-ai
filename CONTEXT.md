@@ -53,3 +53,4 @@ A Task carries: `title`, `description`, `dueDate` (date only, optional), `priori
 - "free standing / no web server" in the brief — resolved: the app runs at localhost; "no web server" means no cloud/hosted backend.
 
 
+
