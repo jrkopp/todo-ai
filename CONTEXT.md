@@ -52,3 +52,4 @@ A Task carries: `title`, `description`, `dueDate` (date only, optional), `priori
 - "pending / in-progress / completed" appeared in the brief — resolved: **Todo / In Progress / Done / Cancelled** are the four canonical Status values.
 - "free standing / no web server" in the brief — resolved: the app runs at localhost; "no web server" means no cloud/hosted backend.
 
+
